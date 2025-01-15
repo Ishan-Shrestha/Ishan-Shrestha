@@ -30,4 +30,9 @@
 
 ---
 
+## 🔗 Connect with Me  
+- 💼 [Gmail](sthaishan218@gmail.com)  
+
+---
+
 🚀 *Let’s build, innovate, and create impactful solutions together!*
