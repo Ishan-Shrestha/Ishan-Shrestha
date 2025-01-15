@@ -31,7 +31,7 @@
 ---
 
 ## 🔗 Connect with Me  
-- 💼 [Gmail](sthaishan218@gmail.com)  
+- 💼 [Gmail](mailto:sthaishan218@gmail.com)  
 
 ---
 
