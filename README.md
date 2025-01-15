@@ -13,7 +13,7 @@
 
 ## 🖥️ Skills  
 
-### 💻 Capable of  
+### 💻 Learning/Know 
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat-square)  
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat-square)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)  
@@ -24,7 +24,6 @@
 ---
 
 ## 📈 GitHub Stats  
-# GitHub Stats
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ishan-Shrestha&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishan-Shrestha&layout=compact&theme=radical)  
