@@ -7,7 +7,7 @@
 ## 🛠 About Me  
 - 🎓 Pursuing a degree in **Computer Engineering** with a passion for innovation.  
 - 🔭 Exploring the intersection of **hardware and software** through hands-on projects.  
-- 🌱 Currently learning **machine learning**, **web development**, and **advanced programming**.
+- 💻 Currently learning **machine learning**, **web development**, and **advanced programming**.
 
 ---
 
